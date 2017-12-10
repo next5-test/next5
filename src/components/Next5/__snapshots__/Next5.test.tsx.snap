@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Next5> renders OK 1`] = `
+<div
+  className="next5"
+>
+  <div
+    className="header"
+  >
+    Next 5 Races
+  </div>
+  <div
+    className="content"
+  >
+    <table
+      cellPadding="0"
+      cellSpacing="0"
+    >
+      <tbody />
+    </table>
+  </div>
+</div>
+`;

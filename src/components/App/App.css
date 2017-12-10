@@ -1,0 +1,12 @@
+.app-header{
+    background: #d32123;
+    position: relative;
+    z-index: 998;
+    cursor: default;
+    display: block;
+}
+
+.inner{
+    max-width: 1008px;
+    margin: auto;
+}
